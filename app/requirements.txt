@@ -3,3 +3,4 @@ langchain-community
 langgraph
 langchain-ollama
 pydantic
+langgraph-cli

@@ -34,3 +34,12 @@ services:
       - OLLAMA_BASE_URLS=http://ollama:11434
       - ENV=dev
       - WEBUI_AUTH=False
+
+  agent-inbox:
+    image: node:latest
+    volumes:
+      - ./agent_inbox:/usr/src/app
+    working_dir: /usr/src/app
+    ports:
+      - "3000:3000"
+    entrypoint: ["/bin/bash", "entrypoint.sh"]
