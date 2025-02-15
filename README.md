@@ -1,3 +1,11 @@
+> [!IMPORTANT]
+>
+> # REPOSITORY MOVED
+>
+> **This repository has been moved to: [https://github.com/FranzDiebold/gen-ai-template](https://github.com/FranzDiebold/gen-ai-template)**
+>
+> Please update your references and bookmarks. This repository is now archived and will no longer be maintained.
+
 # Ollama Jupyter Open WebUI Template 🚀
 
 A template for your kickstart into GenAI! 🎁
